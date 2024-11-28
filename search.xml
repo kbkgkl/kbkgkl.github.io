@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>这是一篇新的文章</title>
-      <link href="/2024/11/25/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0-1/"/>
-      <url>/2024/11/25/%E8%BF%99%E6%98%AF%E4%B8%80%E7%AF%87%E6%96%B0%E7%9A%84%E6%96%87%E7%AB%A0-1/</url>
+      <title>clash for windows使用教程</title>
+      <link href="/2024/11/27/%E5%B0%8F%E9%BB%91%E7%8C%AB/"/>
+      <url>/2024/11/27/%E5%B0%8F%E9%BB%91%E7%8C%AB/</url>
       
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>欢迎来到我的博客</title>
-      <link href="/2024/11/25/hello-world/"/>
-      <url>/2024/11/25/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>欢迎来到<a href="https://hexo.io/">Hexo</a>!这是您的第一篇文章。检查 <a href="https://hexo.io/docs/">文档</a>以获取更多信息。如果您在使用 Hexo 时遇到任何问题，,可以在<a href="https://hexo.io/docs/troubleshooting.html">故障排除</a>中找到答案，也可以在<a href="https://github.com/hexojs/hexo/issues">GitHub</a>上向我提问。</p><h2 id="我的第一个大标题"><a href="#我的第一个大标题" class="headerlink" title="我的第一个大标题"></a>我的第一个大标题</h2><h3 id="创建一个新帖子"><a href="#创建一个新帖子" class="headerlink" title="创建一个新帖子"></a>创建一个新帖子</h3><p><img src="https://img.131213.xyz/api/cfile/AgACAgUAAx0Eflp52gACP59nRGBExPX5iQ-DxJamZWsl-nicbQACdM0xG-VAIFanHN1ov8XcIwEAAwIAA3cAAzYE" alt="1665840294.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>Clash for Windows是一个使用Go语言编写，基于规则的跨平台代理软件核心程序，目前支持的平台有Windows、Linux、MacOS三大平台。</p><p>Clash for Windows是Windows系统上的一款Clash客户端。</p><h1 id="界面预览"><a href="#界面预览" class="headerlink" title="界面预览"></a>界面预览</h1><p><img src="https://img.131213.xyz/api/cfile/AgACAgUAAx0Eflp52gACQPFnRxCwGSpeJfnLjiUDr5OovwABtjAAArPEMRsCBjlW6a-AoIMEI2EBAAMCAAN5AAM2BA" alt="1.png"></p><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>下载地址: <a href="https://dl.clashforwindows.org/releases/latest/Clash.for.Windows.Setup.0.20.39.exe">https://dl.clashforwindows.org/releases/latest/Clash.for.Windows.Setup.0.20.39.exe</a></p><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style>]]></content>
       
       
       
